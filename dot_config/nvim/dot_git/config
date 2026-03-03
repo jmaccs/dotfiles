@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[branch "main"]
+	vscode-merge-base = origin/master
+	github-pr-base-branch = "nvim-lua#kickstart.nvim#master"
+[remote "origin"]
+	url = https://github.com/jmaccs/dotfiles.git
+	fetch = +refs/heads/*:refs/remotes/origin/*

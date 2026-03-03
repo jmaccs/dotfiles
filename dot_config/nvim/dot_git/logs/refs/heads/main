@@ -1,0 +1,10 @@
+0000000000000000000000000000000000000000 186018483039b20dc39d7991e4fb28090dd4750e joe mac <jhmccarney@gmail.com> 1732962670 +0000	clone: from https://github.com/jmaccs/kickstart.nvim.git
+186018483039b20dc39d7991e4fb28090dd4750e 274b36d74ccf12bf588d5207aab64be2b6bfacd2 joe mac <jhmccarney@gmail.com> 1734530338 +0000	commit: commit before config refactor
+274b36d74ccf12bf588d5207aab64be2b6bfacd2 c30eff9eb79615ec9ee70f36844d2eb23ed0f2a4 joe mac <jhmccarney@gmail.com> 1737066421 +0000	commit: 2025 config
+c30eff9eb79615ec9ee70f36844d2eb23ed0f2a4 5be93433c59d7971d90009b7aff7fe78d04335b2 joe mac <jhmccarney@gmail.com> 1738162290 +0000	commit: new config jan '25
+5be93433c59d7971d90009b7aff7fe78d04335b2 9d35f5313952e987afd86402c79fe14098653df4 joe mac <jhmccarney@gmail.com> 1748348229 +0100	commit: begin migrate
+9d35f5313952e987afd86402c79fe14098653df4 9d35f5313952e987afd86402c79fe14098653df4 joe mac <jhmccarney@gmail.com> 1748354439 +0100	Branch: renamed refs/heads/master to refs/heads/main
+9d35f5313952e987afd86402c79fe14098653df4 cef7e5c193d7bcfe64bb9b1907ca5d1cc516b684 joe mac <jhmccarney@gmail.com> 1748355444 +0100	commit: add gitignore
+cef7e5c193d7bcfe64bb9b1907ca5d1cc516b684 7ed48d6980b7e3701839ce62cc673e2a10efbd9e joe mac <jhmccarney@gmail.com> 1748361964 +0100	commit: tinkering complete!
+7ed48d6980b7e3701839ce62cc673e2a10efbd9e decd86bf158ddb07f29ff846b95a92641d57afd7 joe mac <jhmccarney@gmail.com> 1770986393 +0000	commit: files updated
+decd86bf158ddb07f29ff846b95a92641d57afd7 a2842a0ebf659adeabb76c7867bc17b5c1b845d2 joe mac <jhmccarney@gmail.com> 1770987057 +0000	commit: files updated

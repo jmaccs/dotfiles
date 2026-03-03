@@ -1,0 +1,29 @@
+# Lazy.nvim plugin directory
+lazy-lock.json
+
+# Neovim data and cache
+.netrwhist
+.DS_Store
+
+# System files
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Compiled lua
+*.luac
+
+# Local configuration overrides
+local.lua
+private.luaags
+test.sh
+.luarc.json
+nvim
+
+spell/
+lazy-lock.json
+
+./vscode
